@@ -1,9 +1,9 @@
-# Perf:zap:Rocks
-> Web performance matters. Find resources that help you build lightning fast websites.
+# Devtools:zap:Rocks
+> DevTools matters. Find tools and resources that makes you productive when building for the web
 
-<a href="http://perf.rocks">Perf Rocks</a> is a place for front-end performance resources. Articles, talks, tooling, books and the people behind them.
+<a href="htts://devtools.rocks">Devtools Rocks</a> is a place for DevTools resources. Articles, talks, tooling, books and the people behind them.
 
 ## Contributing resources
 
-Submit your resources using the form available at [http://perf.rocks/submit/](http://perf.rocks/submit/), by opening a new issue or by submitting a pull request.
+Submit your resources using the form available at [https://devtools.rocks/submit/](https://debtools.rocks/submit/), by opening a new issue or by submitting a pull request.
 
