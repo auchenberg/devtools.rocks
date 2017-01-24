@@ -42,19 +42,19 @@ plugins:
 # ------------------------------------------------------------------------------
 
 author:
-  name:           Daniel Guillan
-  twitter:        danielguillan
-  url:            http://www.danielguillan.com
-ga:               UA-56631505-1
+  name:           Kenneth Auchenberg
+  twitter:        auchenberg
+  url:            https://kenneth.io
+ga:               
 
-title:            'Perf Rocks'
+title:            'DevTools Rocks'
 description:      'Find resources that help you build lightning fast websites'
-keywords:         'performance, front-end, budgeting, monitoring, grunt, fast websites, speed'
+keywords:         'devtools, developer tooling, browser devtools'
 
-url:              http://perf.rocks
+url:              https://devtools.rocks
 github:
-    repo:         https://github.com/danielguillan/perf.rocks
-    issues:       https://github.com/danielguillan/perf.rocks/issues
+    repo:         https://github.com/auchenberg/devtools.rocks
+    issues:       https://github.com/auchenberg/devtools.rocks/issues
 
 
 tool_types:
