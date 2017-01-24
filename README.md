@@ -1,4 +1,4 @@
-# Devtools🛠Rocks
+# Devtools 🛠 Rocks
 > DevTools matters. Find tools and resources that makes you productive when building for the web
 
 <a href="htts://devtools.rocks">Devtools Rocks</a> is a place for DevTools resources. Articles, talks, tooling, books and the people behind them.
